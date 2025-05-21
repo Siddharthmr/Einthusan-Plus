@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <title>Einthusan Plus</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster&display=swap" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+        <link rel="stylesheet" type="text/css" href="popup.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1 class="logo">Einthusan Plus</h1>
+            </div>
+            <div class="content">
+                <div class="actions">
+                    <button id="extract" class="button primary">
+                        <i class="bi bi-film button-icon"></i>
+                        Extract Movie
+                    </button>
+                    <button id="download" class="button secondary">
+                        <i class="bi bi-download button-icon"></i>
+                        Direct Download
+                    </button>
+                </div>
+                <div class="status-section">
+                    <h3 class="status-title">Current Status</h3>
+                    <div class="status-item">
+                        <span class="status-label">Page detected</span>
+                        <span class="status-value" id="page-status">No</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Movie title</span>
+                        <span class="status-value" id="movie-title">-</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="popup.js"></script>
+    </body>
+</html>
