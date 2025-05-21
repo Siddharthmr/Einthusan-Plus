@@ -13,7 +13,7 @@
 Einthusan Plus enhances your Einthusan.tv experience by allowing you to download movies for offline viewing and enjoy an ad-free environment, all completely free.
 
 <div align="center">
-  <img src="assets/screenshot.png" alt="Einthusan Plus Screenshot" width="600" style="border-radius: 15px;"/>
+  <img src="assets/ss.png" alt="Einthusan Plus Screenshot" width="600"/>
 </div>
 
 ## Project Links
