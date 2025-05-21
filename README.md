@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="assets/logo.svg" width="400"/>
+  <img src="assets/logo.png" width="400"/>
 </div>
-
----
-
 <div align="center">
   <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Chrome--Extension-blue?logo=google-chrome" alt="Chrome Extension"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a>
