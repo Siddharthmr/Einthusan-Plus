@@ -1,6 +1,6 @@
 {
     "name": "Einthusan Plus",
-    "version": "1.0",
+    "version": "1.1",
     "description": "A more premium experience on Einthusan.tv",
     "manifest_version": 3,
     "icons": {
@@ -13,5 +13,5 @@
         "default_icon": "public/icons/icon128.png"
     },
     "host_permissions": ["*://*.einthusan.tv/*"],
-    "permissions": ["downloads", "storage", "scripting"]
+    "permissions": ["downloads", "scripting"]
 }
